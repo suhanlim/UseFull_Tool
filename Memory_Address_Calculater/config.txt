@@ -1,0 +1,5 @@
+# Memory Address Calculator Configuration
+# All values are hexadecimal (0x prefix optional)
+
+reference_base=0xA021C000
+working_base=0x60100000
